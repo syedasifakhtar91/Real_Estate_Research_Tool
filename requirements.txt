@@ -10,3 +10,5 @@ langchain-text-splitters
 chromadb
 sentence-transformers
 protobuf
+torch
+torchvision
